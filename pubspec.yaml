@@ -1,6 +1,7 @@
 name: flutter_sensors_plus
 description: "All types of sensors event listener plugin for flutter (Android & iOS)."
 version: 1.0.0
+homepage: https://github.com/rohitsoni9/flutter_sensor_plus.git
 
 environment:
   sdk: '>=3.3.4 <4.0.0'
